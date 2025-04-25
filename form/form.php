@@ -1,4 +1,4 @@
-<form action="/guestbook" method="POST" class="w-full bg-white shadow-md rounded-lg p-6 space-y-4">
+<form method="POST" class="w-full bg-white shadow-md rounded-lg p-6 space-y-4">
   <div class="space-y-2 text-left">
       <label for="name" class="text-gray-700 font-medium text-sm">Your Name</label>
       <input type="text" name="name" id="name" required 
