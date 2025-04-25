@@ -11,7 +11,7 @@
           class="w-full border border-gray-300 rounded-md p-2 focus:outline-none focus:ring-2 focus:ring-purple-600/50" 
           placeholder="Write something nice..." ></textarea>
   </div>
-  <button type="submit" class="bg-purple-600 text-white font-semibold py-2 px-4 rounded-md hover:bg-purple-700 transition duration-200 w-full">
+  <button type="submit" class="bg-red-800 text-white font-semibold py-2 px-4 rounded-md hover:bg-purple-700 transition duration-200 w-full">
       Sign the Guestbook
   </button>
 </form>

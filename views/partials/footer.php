@@ -3,7 +3,7 @@
           </div>
       </main>
       <footer class="text-center mt-4">
-          <p>&copy; <?php echo date("Y"); ?> Made by ❤️ Amirah.Y</p>
+          <p>&copy; <?php echo date("Y"); ?> Learning with ❤️ Amirah.Y</p>
       </footer>
   </body>
 </html>
